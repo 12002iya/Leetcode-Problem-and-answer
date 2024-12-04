@@ -14,7 +14,6 @@ public class First {
 
         int a = N % 2;
         System.out.printf("number is " + a);
-
         if (N % 2 != 0) {
             System.out.println("Weird");
         } else {
