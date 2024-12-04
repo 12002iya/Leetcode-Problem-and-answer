@@ -11,7 +11,7 @@ public class First {
 
         int N = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
-
+int a=0;
         int a = N % 2;
         System.out.printf("number is " + a);
         if (N % 2 != 0) {
