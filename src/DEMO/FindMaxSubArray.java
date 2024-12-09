@@ -22,7 +22,7 @@ public class FindMaxSubArray {
                 }
 
             }
-            System.out.println("Maximum Subarray in this Number" + max + " ");
+            System.out.println("Maximum Subarray in this Number(using Slinding Windows)" + max + " ");
 
         }
 
