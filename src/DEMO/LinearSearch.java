@@ -8,6 +8,7 @@ public class LinearSearch {
         int[] arr = {12, 7, 9, 100, 34, 67, 23, 1001};
         int target = 23;
         int N = arr.length;
+        //find the target element using Linear Search
         int ans = findTheTarget(arr, target, N);
 
         if (ans != -1) {
